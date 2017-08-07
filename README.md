@@ -8,6 +8,7 @@ A build image for CircleCI that is based off the `circleci/node` image, and inst
 * PIP
 * Convox CLI
 * AWS CLI
+* Serverless
 
 Available on Docker Hub here: https://hub.docker.com/r/freebirdrides/ci-node-build
 
